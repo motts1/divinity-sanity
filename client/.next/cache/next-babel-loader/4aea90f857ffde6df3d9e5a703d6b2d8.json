@@ -1,0 +1,1 @@
+{"ast":null,"code":"// client.js\nimport sanityClient from '@sanity/client';\nexport default sanityClient({\n  projectId: \"rws2i9gu\",\n  dataset: \"whitney\",\n  useCdn: true // `false` if you want to ensure fresh data\n\n});","map":null,"metadata":{},"sourceType":"module"}

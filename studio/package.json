@@ -1,0 +1,44 @@
+{
+  "name": "blogwithgatsby",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.",
+  "main": "package.json",
+  "author": "motts1 <mottsiaira@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "test": "sanity check",
+    "build": "[sanity-tutorial] build --output public"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^0.147.3",
+    "@sanity/block-content-to-react": "^2.0.7",
+    "@sanity/client": "^0.147.3",
+    "@sanity/components": "^0.147.3",
+    "@sanity/core": "^0.147.3",
+    "@sanity/default-layout": "^0.147.4",
+    "@sanity/default-login": "^0.147.0",
+    "@sanity/desk-tool": "^0.147.5",
+    "@sanity/image-url": "^0.140.15",
+    "@sanity/vision": "^0.147.4",
+    "fsevents": "^1.2.11",
+    "groq": "^0.147.0",
+    "next": "^9.1.5",
+    "prop-types": "^15.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motts1/divinity-front-end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/motts1/divinity-front-end/issues"
+  },
+  "homepage": "https://github.com/motts1/divinity-front-end#readme"
+}
