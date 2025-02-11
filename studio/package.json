@@ -27,7 +27,7 @@
     "@sanity/vision": "^0.147.4",
     "fsevents": "^1.2.11",
     "groq": "^0.147.0",
-    "next": "^9.1.5",
+    "next": "^15.1.7",
     "prop-types": "^15.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
